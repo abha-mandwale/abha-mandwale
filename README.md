@@ -55,8 +55,6 @@ Insurance Policy Management Platform with customer management, policy tracking, 
 
 ### DafterDocs
 Document Management System built using FastAPI, Jinja2, HTMX, Tailwind CSS, and PostgreSQL.
-
-### LanguageToDoc (LinguAI)
 AI-powered platform that converts natural language inputs into structured documents and business-ready outputs.
 
 ### URL Shortener API
